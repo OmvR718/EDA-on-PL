@@ -36,5 +36,5 @@ Shot_Creation.csv: Input dataset (included in the repo)
 FPP.py: Script to scrape football statistics from FBref using BeautifulSoup
 
 ##### 📄 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the Apache License.
 
