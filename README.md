@@ -1,9 +1,6 @@
 # EDA-on-PL
 Football Data Analytics &amp; Scraping Toolkit: A Python repository for scraping Premier League stats and analyzing football shot creation, including FPL insights.
 
-## FPL Analysis
-This project provides data cleaning, analysis, and scraping tools for evaluating Fantasy Premier League (FPL) performance, with a focus on shot creation and other advanced metrics.
-
 ### 📊 Features
 ###### 🧹 Cleans and analyzes FPL datasets (e.g., squad totals, opponent totals)
 
