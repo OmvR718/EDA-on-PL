@@ -79,8 +79,6 @@ The `FPLAnalysis.ipynb` notebook performs the following key analysis steps:
 * Automate the data scraping and analysis pipeline.
 
 ---
-
-Feel free to modify any section to better fit your project details!
 ##### 📄 License
 This project is open-source and available under the Apache License.
 
