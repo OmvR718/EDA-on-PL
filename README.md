@@ -55,8 +55,8 @@ The `FPLAnalysis.ipynb` notebook performs the following key analysis steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/OmvR718/EDA-on-PL.git
+    cd EDA-on-PL
     ```
 2.  **Install dependencies:**
     Ensure you have Python installed. You can install the necessary libraries using pip:
